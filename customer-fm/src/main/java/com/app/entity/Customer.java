@@ -15,6 +15,6 @@ public class Customer {
     @Id
     private long id;
     private String name;
-    private String addresss;
+    private String address;
     private double salary;
 }
